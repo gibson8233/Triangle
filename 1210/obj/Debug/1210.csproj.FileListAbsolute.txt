@@ -1,0 +1,9 @@
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\bin\Debug\1210.exe.config
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\bin\Debug\1210.exe
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\bin\Debug\1210.pdb
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\1210.csprojResolveAssemblyReference.cache
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\_1210.Form1.resources
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\_1210.Properties.Resources.resources
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\1210.csproj.GenerateResource.Cache
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\1210.exe
+c:\users\gibso\documents\visual studio 2015\Projects\1210\1210\obj\Debug\1210.pdb
